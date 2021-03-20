@@ -146,6 +146,7 @@ button8.grid(row=4, column=2)
 button9.grid(row=4, column=3)
 restartButton.grid(row=5, column=1, columnspan=3)
 
+
 buttonsList = [button1, button2, button3, button4, button5, button6, button7, button8, button9]
 
 window.mainloop()
